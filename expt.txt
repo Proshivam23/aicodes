@@ -1,0 +1,10 @@
+bfs and dfs
+water jug bfs, waterjug dfs
+mc bfs, mc dfs
+a Star
+best first search
+expert system
+
+8 puzzle hill climbing
+8queens solution space search
+tic tac toe min max
